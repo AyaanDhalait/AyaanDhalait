@@ -1,7 +1,8 @@
+<div align="center">
+
 # Ayaan Dhalait
 
 Hi there, Howdy, Heya, I am Ayaan Dhalait (Ayaan D. for short).
-
 
 ## About Me
 
@@ -15,3 +16,4 @@ You can find my work on my [GitHub][gh], [Website][w], My [Itch.io Page][I] and 
 [w]: https://ayaandhalait.github.io/
 [gh]: https://github.com/AyaanDhalait
 
+</div>
