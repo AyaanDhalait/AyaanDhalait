@@ -20,7 +20,7 @@ Fun Day Before Monday is a App that lets you decide what to do when you are bore
 
 You can find my work on my [GitHub][gh], [Website][w], My [Itch.io Page][I] and more
 
-[I]: https://ayaandhalait.github.io/
+[I]: https://ayaandhalait.itch.io/
 [w]: https://ayaandhalait.github.io/
 [gh]: https://github.com/AyaanDhalait
 
