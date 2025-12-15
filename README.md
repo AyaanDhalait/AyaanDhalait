@@ -13,6 +13,7 @@ I am a computer programmer and aspiring engineer. I explore advanced computer sc
 ### 1. Fun Day Before Monday
 
 Fun Day Before Monday is a App that lets you decide what to do when you are bored. As always I developed this solo and the app is availible in the form of a web app [here][F].
+
 [F]: https://fundaybeforemonday.streamlit.app/
 
 ## Links
