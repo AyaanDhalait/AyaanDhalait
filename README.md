@@ -1,4 +1,9 @@
 <div align="center">
-  Hello, I am Ayaan, a computer programmer. Saying “computer programmer” is a bit of a stretch since we don’t really program computers, but rather build applications that run on them. Still, I guess you could say we are programming the computer in a way. This is just how I see it, so feel free to think differently.
+  Hello, I’m Ayaan, a computer programmer.  
   <br><br>
+  I spend my time designing and building software that runs on computers—whether that’s small tools, interactive games, or full applications. While the phrase “computer programmer” might sound like we’re directly controlling machines, what we’re really doing is writing instructions that tell software how to behave and interact with the system.  
+  <br><br>
+  Over time, this process starts to feel less like just “writing code” and more like solving problems, creating systems, and shaping how users experience technology. In that sense, you could say we’re indirectly guiding how the computer operates through the programs we build.  
+  <br><br>
+  This is simply how I think about it, and it may be different for others.
 </div>
