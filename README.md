@@ -1,6 +1,6 @@
 <div align="center">
-  Hello, I am Ayaan, A Computer Programmer which is kind of a stretch since we Computer Programmer's don't usually program computers but rather applicatipns that run on the computer but I guess programmer 'A' computer can provide you with more skills but thats not necissary but this is my perspective so feel free to think what you want to. 
-<br><br>
+  Hello, I am Ayaan, a computer programmer. Saying “computer programmer” is a bit of a stretch since we don’t really program computers, but rather build applications that run on them. Still, I guess you could say we are programming the computer in a way. This is just how I see it, so feel free to think differently.
+  <br><br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaanDhalait)](https://github.com/anuraghazra/github-readme-stats)
+  [![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyaanDhalait)](https://github.com/anuraghazra/github-readme-stats)
 </div>
