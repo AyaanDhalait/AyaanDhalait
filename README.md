@@ -6,7 +6,5 @@
   Over time, this process starts to feel less like just “writing code” and more like solving problems, creating systems, and shaping how users experience technology. In that sense, you could say we’re indirectly guiding how the computer operates through the programs we build.  
   <br><br>
   This is simply how I think about it, and it may be different for others.
-</div>
-
-
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=AyaanDhalait)
+</div>
