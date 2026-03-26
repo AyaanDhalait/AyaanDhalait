@@ -7,3 +7,6 @@
   <br><br>
   This is simply how I think about it, and it may be different for others.
 </div>
+
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=AyaanDhalait)
