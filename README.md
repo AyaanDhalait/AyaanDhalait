@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://ayaan.is-a.dev/banner.png" alt="Banner" width="80%"><br>
-   <h1>Hello, I’m Ayaan</h1>
- <strong>I'm a computer programmer.</strong>  
+   <h1>Hello, I’m Ayaan Dhalait!</h1>
+ <strong>I'm a Web Developer and Computer Programmer.</strong>  
   <br><br>
   I spend my time designing and building software that runs on computers—whether that’s small tools, interactive games, or full applications. While the phrase “computer programmer” might sound like we’re directly controlling machines, what we’re really doing is writing instructions that tell software how to behave and interact with the system.  
   <br><br>
