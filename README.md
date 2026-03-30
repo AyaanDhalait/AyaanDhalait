@@ -3,11 +3,15 @@
    <h1>Hello, I’m Ayaan Dhalait!</h1>
  <strong>I'm a Web Developer and Computer Programmer.</strong>  
   <br><br>
-  I spend my time designing and building software that runs on computers—whether that’s small tools, interactive games, or full applications. While the phrase “computer programmer” might sound like we’re directly controlling machines, what we’re really doing is writing instructions that tell software how to behave and interact with the system.  
+  <h2>About</h2>
+I usually use Python as my main programming language and HTML, CSS and Javascript for web development. I was the CTO of the Student Initiative board and ever since I left, I've been doing stuff on my own where sometimes I do web development and others I just make automation tools for me.
   <br><br>
-  Over time, this process starts to feel less like just “writing code” and more like solving problems, creating systems, and shaping how users experience technology. In that sense, you could say we’re indirectly guiding how the computer operates through the programs we build.  
+<h2>Links</h2> 
+  <a href="https://linkedin.com/in/ayaan-dhalait">LinkedIn</a>
+  <a href="https://ayaan.is-a.dev">Website</a>
+  <a href="https://github.com/AyaanDhalait">Github</a>
   <br><br>
-  This is simply how I think about it, and it may be different for others.
+  &copy Ayaan Dhalait. All Rights Reserved.
   <br><br>
 
   
