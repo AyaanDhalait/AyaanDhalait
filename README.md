@@ -1,5 +1,5 @@
 <div align="center">
-  ![Banner](https://ayaan.is-a.dev/banner.png)
+  ![Banner](https://ayaan.is-a.dev/banner.png)<br><br>
   Hello, I’m Ayaan, a computer programmer.  
   <br><br>
   I spend my time designing and building software that runs on computers—whether that’s small tools, interactive games, or full applications. While the phrase “computer programmer” might sound like we’re directly controlling machines, what we’re really doing is writing instructions that tell software how to behave and interact with the system.  
