@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://ayaan.is-a.dev/banner.png" alt="Banner" width="80%"><br>
    <h1>Hello, I’m Ayaan Dhalait!</h1>
  <strong>I'm a Web Developer and Computer Programmer.</strong>  
   <br><br>
