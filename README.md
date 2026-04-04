@@ -1,4 +1,5 @@
 <div align="center">
+   <img href="https://ayaan.is-a.dev/favicon.ico">
    <h1>Hello, I’m Ayaan Dhalait!</h1>
  <strong>I'm a Web Developer and Computer Programmer.</strong>  
   <br><br>
