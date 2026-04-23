@@ -4,7 +4,7 @@
 
 you can email me at **ayaan@ayaan.is-a.dev**
 
-you can also visit My Linkedin **[https://linkedin.com/in/AyaanDhalait](https://linkedin.com/in/AyaanDhalait)**
+you can also visit My Linkedin **[https://linkedin.com/in/AyaanDhalait](https://linkedin.com/in/AyaanDhalait)** <br>
 Website : **https://ayaan.is-a.dev**
 
 <h2>Social Profiles</h2>
